@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all rulers and magistrates to be tender and take heed of persecuting and imprisoning and spoiling the goods of God's people for obeying, serving, and worshipping the Lord God that made them, and the heavens, and the earth, and all things therein / by G. Fox.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40287</idno>
+            <idno type="STC">Wing F1941</idno>
+            <idno type="STC">ESTC R28012</idno>
+            <idno type="EEBO-CITATION">10329555</idno>
+            <idno type="OCLC">ocm 10329555</idno>
+            <idno type="VID">44864</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40287)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44864)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1384:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all rulers and magistrates to be tender and take heed of persecuting and imprisoning and spoiling the goods of God's people for obeying, serving, and worshipping the Lord God that made them, and the heavens, and the earth, and all things therein / by G. Fox.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Brighvrst,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Freedom of religion.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44864:1"/>
+            <!-- PDF PAGE 1 -->
+            <pb facs="tcp:44864:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>TO ALL RULERS AND MAGISTRATES, To be Tender and Take Heed of Perſecuting and Impriſoning, And Spoiling the GOODS of God's People, For Obeying, Serving, and Worſhip<g ref="char:EOLhyphen"/>ping the LORD GOD, that made them, and the Heavens, and the Earth, and all things therein</p>
+            <p>By <hi>G. FOX.</hi>
+            </p>
+            <p>LONDON, Printed by JOHN BRIGHVRST, at the Sign of the BOOK in <hi>Grace-Church-ſtreet,</hi> 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:44864:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb n="3" facs="tcp:44864:2"/>
+            <!-- PDF PAGE 2 -->
+            <head>To All Rulers and Magiſtrates, to be <hi>TENDER,</hi> &amp;c.</head>
+            <p>FOR we (the People in Scorn called <hi>Quakers</hi>) have ſuffered as the Lambs of Chriſt by all ſorts of powers, both Im<g ref="char:EOLhyphen"/>priſonment, and ſpoiling of our Goods, only for ſerving and worſhipping the God that made us: And for theſe thirty five or thirty ſix years the Goales in moſt Counties have ſeldom been empty but we are and have been Im<g ref="char:EOLhyphen"/>priſoned, and many to Death; which hath cau<g ref="char:EOLhyphen"/>ſed many Weeping Widdows, and many Crying Fatherleſs, and yet having their goods ſpoiled which ſhould refreſh and nouriſh them; And did we ever but <hi>Intreat,</hi> when we have been <hi>threat<g ref="char:EOLhyphen"/>ned?</hi> and when we were <hi>Curſed</hi> by Biſhops and Prieſts, did not we <hi>Bleſs?</hi> and We, who are and have been <hi>Perſecuted,</hi> have not we alwayes <hi>prayed for our Perſecutors?</hi> have not we been devoured like Chickens and hunted like Partridges by Birds of Prey? Have not we been as Sheep among Wolves? and do not you know, that in <hi>New-Eng<g ref="char:EOLhyphen"/>land</hi> ſome of us have been <hi>Hanged</hi> and others <hi>Bani<g ref="char:EOLhyphen"/>ſhed on pain of death,</hi> and others their <hi>Bodies whipt and beat till they have been like a Gelly?</hi> and have not others of us had <hi>our Ears cut</hi> and ſome <hi>Branded with
+<pb n="4" facs="tcp:44864:3"/>
+                  <!-- PDF PAGE 3 -->a Hot Iron</hi> in the other Power's dayes? And now in Severall <hi>Dungeons</hi> and <hi>Goales</hi> Men and Women are Crowded, yea ſome that have Sucking Children? Oh! do not loſe the <hi>Bowels of Humanity,</hi> nor the <hi>love</hi> and <hi>tenderneſs of Chriſtianity;</hi> do ye and they learn of Chriſt, who is meek and low in Heart, that do and have done ſo unto us: Would ſuch be ſo ſerved themſelves? is this to fulfill the Royall Law of God, <hi>To do unto all men as they would have them do unto them?</hi> Are not many of us ſpoiled both in our <hi>Trades</hi> and <hi>Husbandry</hi> through the <hi>Informers</hi> that take away our Goods? God in Heaven knows and ſees all our <hi>Sufferings</hi> and <hi>Afflictions;</hi> which is only <hi>for Obeying and Serving and Worſhipping him.</hi>
+            </p>
+            <p>And you know that the <hi>Prophets</hi> and <hi>Chriſt</hi> and the <hi>Apoſtles,</hi> they were never Impriſoned, nor Per<g ref="char:EOLhyphen"/>ſecuted and ſuffered as Juſt and Righteous men (by them that made them to Suffer) but the Queſtion is, <hi>Whether they would be ſo done unto themſelves, as they do unto others? whether they would not judge it to be hard meaſure?</hi>
+            </p>
+            <p>Therefore I beſeech you all to conſider, whether ever <hi>Chriſt</hi> and his <hi>Apoſtles</hi> did give any <hi>Power to Im<g ref="char:EOLhyphen"/>priſon and perſecute, and ſpoil the goods of any for Obey<g ref="char:EOLhyphen"/>ing, ſerving and Worſhipping God that made them? or did they ever perſecute, Impriſon or ſpoil the goods of any, be<g ref="char:EOLhyphen"/>cauſe they would not be of their Religion?</hi>
+            </p>
+            <p>Oh! therefore conſider, you that profeſs your ſelves <hi>Chriſtians;</hi> ſhut not up your Bowels of Com<g ref="char:EOLhyphen"/>paſſion
+<pb n="5" facs="tcp:44864:3"/>
+               <!-- PDF PAGE 3 -->againſt your Brethren; but as the Apoſtle ſaith, <hi>Put on Bowels of Mercy and Loving-kindneſs one towards another.</hi> And conſider what became of <hi>Pharaoh,</hi> that Oppreſt and Perſecuted the Children of <hi>Iſrael,</hi> and all his Hoſt that roſe up againſt them, and would not let them go to worſhip God. And what became of <hi>Cain,</hi> that Killed and Perſecuted his Brother about Religion? And what became of the Old Ungodly World? And what became of the Cities of <hi>Sodom</hi> and <hi>Gomorrah,</hi> that grieved Juſt <hi>Lot?</hi> And what became of the <hi>Jews</hi> that Per<g ref="char:EOLhyphen"/>ſecuted the Prophets, Chriſt and the Apoſtles? Did they not Perſecute them becauſe they obeyed God, and they themſelves diſobeyed God? And what became of them that Perſecuted <hi>Daniel</hi> and the Three Children? Did not they Perſecute them for Worſhipping &amp; Obeying God that made them? And what do you Read will become of the Beaſt that Compelled to Worſhip? And the Whore ſpoken of in the <hi>Revelations,</hi> that drinketh the Blood of the Martyrs and Servants of Jeſus? Doth not John in the <hi>Revelations</hi> ſay, <hi>that their End will be Deſtruction and their followers, with the Devil and his Angels?</hi> Who was the firſt that led Man and Woman from Obeying God?</p>
+            <p>But my deſire is, that none that Profeſs Chriſti<g ref="char:EOLhyphen"/>anity may follow their Wayes, leſt they partake with them in their Miſery; but that all may come to the knowledge of the truth, as it is in Jeſus and
+<pb n="6" facs="tcp:44864:4"/>
+               <!-- PDF PAGE 4 -->in their own inward parts? And that all may ceaſe from Perſecuting, and Impriſoning, and Spoi<g ref="char:EOLhyphen"/>ling the Goods of ſuch as meet together to Serve and Worſhip God in Spirit, and in truth, as Chriſt hath Commanded.</p>
+            <p>And Chriſt Jeſus by the Grace of God hath ta<g ref="char:EOLhyphen"/>ſted Death for every Man; and then hath he not ſhed his Blood for all? And then bought them with the price of his Blood? And is there any thing that brings Condemnation but Diſobedience, and Unbelief in him? And did Chriſt give any Command to his Apoſtles, Meſſengers, and Em<g ref="char:EOLhyphen"/>baſſadours, to Perſecute them that would not be<g ref="char:EOLhyphen"/>lieve, hear or receive their Teſtimony? But to ſhake off the Duſt of their feet as a Witneſs againſt them, and that ſhould be Puniſhment enough for them in the day of Judgement.</p>
+            <p>And doth not Chriſt ſay, <hi>let the Tares and the Wheat grow together untill the Harveſt</hi> (which is the end of the world) <hi>and in the end of the world, Chriſt would ſend his Angels that ſhould be the Reapers,</hi> that ſhould diſtinguiſh the Wheat from the Tares? So Chriſt did not give Men Power before the World was ended, to pluck up the Tares, leſt they ſhould pluck up the Wheat with the Tares? for that Power Chriſt gives to his Angels, to ſever the Wheat from the Tares at the end of the World: And if they went into Everlaſting puniſhment, that did not cloath Chriſt in his members, and
+<pb n="7" facs="tcp:44864:4"/>
+               <!-- PDF PAGE 4 -->viſit when he was in Priſon; What will become of them that caſt Him in his Members into Priſon?</p>
+            <p>And you Read what Chriſt ſaith unto <hi>Saul, why Perſecuteſt thou me?</hi> when he was going with Au<g ref="char:EOLhyphen"/>thority from the Chief Prieſts to Perſecute the <hi>Chriſtians</hi> at <hi>Damaſcus.</hi>
+            </p>
+            <p>And you Read how often Chriſt Commands <hi>Chriſtians</hi> to forgive one another, as God and Chriſt hath forgiven them: And muſt theſe Commands of Chriſt be preached and Talked of and not Practiſed? for Chriſt ſaith, you muſt do the will of his Father if ye enter into the Kingdom of Heaven: And they that love God and Chriſt will not only call him Lord, but keep his Com<g ref="char:EOLhyphen"/>mands, and do what he ſaith.</p>
+            <p>And how do they that are called <hi>Chriſtians</hi> ſay the Lords prayer, who deſire the Lord <hi>to forgive them their Treſpaſſes as they forgive them that treſpaſs againſt them?</hi> for Chriſt ſaith, if <hi>you forgive Men their treſpaſſes, your Heavenly Father will alſo forgive you your Treſpaſſes? but if ye forgive not Men their treſpaſſes, neither will your Father which is in Heaven forgive you your treſpaſſes,</hi> to wit, your Treſpaſſes that you treſpaſs againſt him, Matth. 6. Mark 11.</p>
+            <p>Now here you may ſee that you Pray to God Conditionally, for God to forgive you your Treſ<g ref="char:EOLhyphen"/>paſſes againſt him as you do forgive them that Treſpaſs againſt you, and not otherwiſe you de<g ref="char:EOLhyphen"/>ſire
+<pb n="8" facs="tcp:44864:5"/>
+               <!-- PDF PAGE 5 -->God to forgive you yours? therefore I Deſire you will Conſider what you deſire in this Prayer.</p>
+            <p>Oh! that all that Profeſs themſelves <hi>Chriſtians</hi> had the Spirit of Chriſt and the mind of Chriſt, who ſaid, <hi>he Came not to Deſtroy Mens Lives, but to Save them?</hi> And rebuk't his Diſciples, who would have had fire to have come down from Heaven upon the <hi>Samaritans</hi> that would not Receive Chriſt, and told them, <hi>they did not know what Spirit they were of:</hi> So if all <hi>Chriſtendom</hi> had been in the Spirit of Chriſt, and the mind of Chriſt, and known what Spi<g ref="char:EOLhyphen"/>rit they had been of, they would not have Deſtroy<g ref="char:EOLhyphen"/>ed ſo many Mens Lives, by Goals and Perſecuti<g ref="char:EOLhyphen"/>ons about Religion, and the Worſhip of God, as they have done ſince Chriſt and the Apoſtles dayes.</p>
+            <p>So it is clear, it is not the mind of Chriſt, that any ſhould ſuffer, or be put to Death, becauſe they would not receive him, or believe on him; but to ſhake off the Duſt of their Feet, to be a Wit<g ref="char:EOLhyphen"/>neſs againſt them in the Day of Judgment.</p>
+            <p>And if we are to Pray for them that Perſecute us, then they need not fear that we ſhould hate them; for we are commanded to Love our Ene<g ref="char:EOLhyphen"/>mies, and ſalute them, and not only our Brethren; we are to Pray for All Men, even for KINGS and all that are in Authority, that we may lead a quiet and a peaceable Life in all Godlineſs and Honeſty; for this is good and acceptable in the Sight of God our Saviour (Now this ſhould be the Practice of
+<pb n="9" facs="tcp:44864:5"/>
+               <!-- PDF PAGE 5 -->all them that profeſs true Chriſtianity) for God would have all men to be ſaved, and come to the Knowledge of the Truth; for there is one God, and one Mediator betwixt God and Men, the Man Chriſt Jeſus, who gave himſelf a Ranſom for all, to be teſtified in due time.</p>
+            <p>Now, if Kings and all men muſt be prayed for, and all that be in Authority, and God would have them all to be ſaved, and come to the Knowledge of the Truth, and Chriſt gave himſelf a Ranſom for all; then why ſhould men Perſecute, and Im<g ref="char:EOLhyphen"/>priſon, and Deſtroy one another, and Spoil the Goods of one another, concerning Church, Reli<g ref="char:EOLhyphen"/>gion and Worſhip, for not Conforming one to an<g ref="char:EOLhyphen"/>other? whereas they ſhould Pray for one another. And do they not pretend to pluck up Tares before the World's End? which Chriſt hath forbidden but is the Angels Work at the End of the World.</p>
+            <p>Why ſhould ſuch as pretend themſelves <hi>Chriſti<g ref="char:EOLhyphen"/>ans,</hi> Impriſon and Perſecute any to Death whom Chriſt hath Ranſomed? who gave himſelf a Ran<g ref="char:EOLhyphen"/>ſom for all. And <hi>God</hi> would have all Men ſaved, and come to the Knowledge of the Truth: then, why ſhould any be Deſtroyed upon the Account of Religion? And Chriſt ſaid, <hi>He came to Save Men's Lives, and not to Deſtroy them.</hi>
+            </p>
+            <p>So it is clear, it is not the Mind of God and Chriſt that Men ſhould Deſtroy one another about Religions, Wayes and Worſhips, but Pray for one
+<pb n="10" facs="tcp:44864:6"/>
+               <!-- PDF PAGE 6 -->another; for Chriſt ſaid to his Diſciples, who would have had Fire come down from Heaven to have Deſtroyed the <hi>Samaritans, Ye know not what Spirit ye are of;</hi> and Rebuked them, and told them, <hi>He was not come to Deſtroy Men's Lives, but to Save them.</hi>
+            </p>
+            <p>And when Chriſt came, there were too many <hi>deſtroyers</hi> of Mens Lives about Religion in the world; and ſome of the Diſciples were giving way to that ſpirit, that would have had Men's Lives Deſtroyed, that would not receive Chriſt; but he came to de<g ref="char:EOLhyphen"/>ſtroy the Devil and his Works, who was the De<g ref="char:EOLhyphen"/>ſtroyer of Men's Lives: and ſo Chriſt came not to Deſtroy Men's Lives, but to Save them. And therefore have all in <hi>Chriſtendom,</hi> who have De<g ref="char:EOLhyphen"/>ſtroyed, not known what Spirit they have been of, that have Deſtroyed ſo many Men and Women's Lives, by Impriſoning and Perſecuting them about Religion and Worſhip, ſince the Apoſtles dayes? And hath not this been contrary to the Commands of Chriſt and the Mind of God? who would have all be ſaved, and all to be prayed for, and to for<g ref="char:EOLhyphen"/>give one another, and to love one another, and to love Enemies; yea, to Pray for Perſecutors, and not be Perſecutors; and to be Clothers and Viſi<g ref="char:EOLhyphen"/>ters of Chriſt in his Members in Priſon, and not to be Caſters of him and his Members into Priſon; for Chriſt, who taſted Death for every man, and gave hmiſelf a Ranſom for all, to wit, Men and Women, who ſaith, He came to Save Men's Lives,
+<pb n="11" facs="tcp:44864:6"/>
+               <!-- PDF PAGE 6 -->and not to Deſtroy them; <hi>He is the one Mediator be<g ref="char:EOLhyphen"/>tween God and Man.</hi>
+            </p>
+            <p>So judge in your ſelves what Spirit it hath been, that hath led profeſs'd <hi>Christians</hi> to Perſecute, and Impriſon and Deſtroy Men's Lives &amp; Eſtates about Religion, Church and Worſhip, ſince Chriſt and the Apoſtles dayes, ſeeing Chriſt bids you; <hi>Love E<g ref="char:EOLhyphen"/>nemies, Pray for Perſecutors, and them that Hate you, and Deſpightfully uſe you.</hi> And therefore my Deſire is to the Lord, That all that profeſs <hi>Chriſtianity,</hi> may poſ<g ref="char:EOLhyphen"/>ſeſs Chriſt's Spirit and Mind; and then they will not Perſecute Chriſt in his Members.</p>
+            <p>And ſo I deſire that all may come into the Fear of God, that they may receive his pure, gentle, hea<g ref="char:EOLhyphen"/>venly Wiſdom, that by it you may all be ordered, &amp; order all that God gives you under your hands, to his Glory, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>From him that deſires nothing in his Heart and Soul, but the eternal Good and all mens everlaſting Happineſs and welfare in Chriſt Jeſus, <hi>Amen. G. F.</hi>
+               </signed>
+               <dateline>Kingſton, <date>the 24th of the 12th Moneth, 1682.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="epigraph">
+            <pb facs="tcp:44864:7"/>
+            <!-- PDF PAGE 7 -->
+            <q>
+               <p>All that will live Godly in Chriſt Jeſus ſhall Suffer Perſecution,</p>
+               <bibl>2 Tim. 3.12.</bibl>
+            </q>
+            <q>
+               <p>He that was Born After the Fleſh, Perſecu<g ref="char:EOLhyphen"/>ted him that was Born After the Spirit, even ſo it is now,</p>
+               <bibl>Gal. 4.29.</bibl>
+            </q>
+            <q>
+               <p>Whoſo ſtoppeth his Ears at the Cry of the Poor, he alſo ſhall Cry Himſelf, but ſhall not be heard.</p>
+               <bibl>Prov. 21.13.</bibl>
+            </q>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:44864:7"/>
+            <!-- PDF PAGE 7 -->
+         </div>
+      </body>
+   </text>
+</TEI>
